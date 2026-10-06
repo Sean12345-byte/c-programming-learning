@@ -1,0 +1,11 @@
+# Compiled executables
+hello
+
+# Object files
+*.o
+
+# Preprocessed files
+*.i
+
+# Assembly files
+*.s
