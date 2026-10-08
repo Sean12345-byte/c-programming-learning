@@ -10,3 +10,6 @@ hello
 # Assembly files
 *.s
 variables
+
+task_counter
+type_conversion
